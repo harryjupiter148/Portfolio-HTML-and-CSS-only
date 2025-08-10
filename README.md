@@ -6,6 +6,7 @@ This is the first project I have actually completed.
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+    - [Desktop View](#desktop-view)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,6 +16,7 @@ This is the first project I have actually completed.
 
 ### Screenshot
 
+#### Desktop View
 ![Home](.Images/home.jpeg)
 ![About](.Images/about.jpeg)
 ![Resume](.Images/resume.jpeg)
@@ -22,7 +24,7 @@ This is the first project I have actually completed.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Portfolio](https://harryjupiter148.github.io/Portfolio-HTML-and-CSS-only/)
 
 ## My process
 
