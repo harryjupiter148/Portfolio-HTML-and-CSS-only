@@ -7,6 +7,8 @@ This is the first project I have actually completed.
 - [Overview](#overview)
   - [Screenshot](#screenshot)
     - [Desktop View](#desktop-view)
+    - [Tablet View](#tablet-view)
+    - [Mobile View](#mobile-view)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
