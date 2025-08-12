@@ -6,9 +6,12 @@
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
-html,
+
 .main-body {
   height: 100%;
+}
+html,
+.main-body {
   overflow: hidden;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
@@ -701,3 +704,4 @@ html,
     overflow-y: visible;
   }
 }
+
