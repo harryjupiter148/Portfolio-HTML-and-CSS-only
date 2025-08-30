@@ -19,22 +19,22 @@ This is the first project I have actually completed.
 ### Screenshot
 
 #### Desktop View
-![Home](.Images/home.png)
-![About](.Images/about.png)
-![Resume](.Images/resume.png)
-![Portfolio](.Images/portfolio.png)
+![Home](Images/home.png)
+![About](Images/about.png)
+![Resume](Images/resume.png)
+![Portfolio](Images/portfolio.png)
 
 #### Tablet View
-![Home Tab](.Images/home-tab.jpeg)
-![About Tab](.Images/about-tab.jpeg)
-![Resume Tab](.Images/resume-tab.jpeg)
-![Portfolio Tab](.Images/portfolio-tab.jpeg)
+![Home Tab](Images/home-tab.jpeg)
+![About Tab](Images/about-tab.jpeg)
+![Resume Tab](Images/resume-tab.jpeg)
+![Portfolio Tab](Images/portfolio-tab.jpeg)
 
 #### Mobile View
-![Home Mobile](.Images/home-mobile.png)
-![About Mobile](.Images/about-mobile.png)
-![Resume Mobile](.Images/resume-mobile.png)
-![Portfolio Mobile](.Images/portfolio-mobile.png)
+![Home Mobile](Images/home-mobile.jpeg)
+![About Mobile](Images/about-mobile.jpeg)
+![Resume Mobile](Images/resume-mobile.jpeg)
+![Portfolio Mobile](Images/portfolio-mobile.jpeg)
 
 ### Links
 
