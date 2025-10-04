@@ -416,6 +416,13 @@ html,
           transform: scale(1.2);
         }
       }
+      &:nth-child(7) {
+        transition: all 0.1s ease;
+        animation: TransitionUp 0.3s ease-out;
+        &:hover {
+          transform: scale(1.2);
+        }
+      }
       &:last-child {
         transition: all 0.1s ease;
         animation: TransitionUp 0.7s ease-out;
@@ -702,6 +709,7 @@ html,
     overflow-y: visible;
   }
 }
+
 
 
 
